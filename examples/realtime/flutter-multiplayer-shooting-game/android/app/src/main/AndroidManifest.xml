@@ -1,5 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.flame_realtime_shooting">
+    <uses-permission android:name="android.permission.INTERNET"/>
    <application
         android:label="flame_realtime_shooting"
         android:name="${applicationName}"
